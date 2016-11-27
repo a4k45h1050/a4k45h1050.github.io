@@ -15,8 +15,7 @@ published: true
     <td> Date:  </td>
     <td>27/11/16</td>
   </tr>
-  <tr>
-</table>
+ </table>
 
 
 <table>
