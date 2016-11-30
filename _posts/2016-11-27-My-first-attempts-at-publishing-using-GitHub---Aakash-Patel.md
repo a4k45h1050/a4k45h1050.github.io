@@ -2,7 +2,7 @@
 title: My first attempts at publishing using GitHub - Aakash Patel
 layout: post
 author: aakash.patel
-permalink: /my-first-attempts-at-publishing-using-github---aakash-patel/
+permalink: /blog1/
 source-id: 18BkzdBQim89j2XI_Y7zsAuuygr5yHE-ESbNJJx8jQ2w
 published: true
 ---
