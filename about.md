@@ -8,7 +8,7 @@ I am a student from Dr Challoners Grammar School
 
 ### More Information
 
-I code this website
+I learn the After Effects Tools
 
 ### Contact me
 
