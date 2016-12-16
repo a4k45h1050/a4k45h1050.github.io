@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I used the tips to help me get htorugh the levels and I tried to find the shortest way possible, so it stretched my learning, not just pciking the easiest option.</td>
+    <td>I used the tips to help me get through the levels and I tried to find the shortest way possible, so it stretched my learning, not just pciking the easiest option.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
