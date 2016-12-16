@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Using Lightbot</td>
+    <td>Using Lightbot to enhance learning on GitHub</td>
     <td> Date:  </td>
     <td>16/12/16</td>
   </tr>
