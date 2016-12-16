@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Improving my overall website on Github
+title: Week 3 - Improving my overall website on GitHub
 layout: post
 author: aakash.patel
 permalink: /week-3---improving-my-overall-website-on-github/
