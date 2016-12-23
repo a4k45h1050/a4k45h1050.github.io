@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a student from Dr Challoners Grammar School
+I am a student 
 
 ### More Information
 
-I learn the After Effects Tools
+I.T.
 
 ### Contact me
 
