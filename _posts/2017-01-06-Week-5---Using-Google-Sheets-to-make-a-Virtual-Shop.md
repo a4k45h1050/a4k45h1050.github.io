@@ -57,5 +57,5 @@ published: true
     <td>I will try to add more information to my sheet such as the price I bought the products at and maybe add more products.</td>
   </tr>
 </table>
-
+<iframe src="https://docs.google.com/spreadsheets/d/1KzTJ3PqEcjm58pglieebtXlpaXXgBhy3SLRAday8Wi0/edit#gid=0"></iframe>
 
