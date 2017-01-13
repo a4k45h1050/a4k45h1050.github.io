@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>Using Google Sheets to make a Virtual Shop</td>
     <td> Date:  </td>
-    <td>27/11/16</td>
+    <td>06/01/17</td>
   </tr>
 </table>
 
