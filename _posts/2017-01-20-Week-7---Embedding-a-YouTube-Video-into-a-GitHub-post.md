@@ -30,7 +30,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think I did because I worked quite fast and was ahead of the stages during the lesson. </td>
+    <td>Yes, my video is embed in my website.</td>
   </tr>
 </table>
 
@@ -43,19 +43,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I watched the video/tutorial and followed step by step. It was hard to master but I focused and managed to embed it.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I didn't really help people that much, which was good but I may need to work on managing my time because I rushed a bit.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>I will try to make the video look nicer in my post by re-sizing, this will make it looks better. In my virtual shop I will try to add discount codes.</td>
   </tr>
 </table>
 
