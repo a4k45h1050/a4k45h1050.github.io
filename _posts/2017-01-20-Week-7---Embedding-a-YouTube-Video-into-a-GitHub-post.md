@@ -6,6 +6,7 @@ permalink: /week-7---embedding-a-youtube-video-into-a-github-post/
 source-id: 1C1IGTVxH0wzO_lp3BVpPFCk4hnO1KR_nLLn9__nLQAw
 published: true
 ---
+<iframe width="1051" height="591" src="https://www.youtube.com/embed/iM_yrugA80o?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 <table>
   <tr>
     <td>Title:  </td>
