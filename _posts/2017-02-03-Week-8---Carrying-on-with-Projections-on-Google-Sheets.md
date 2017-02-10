@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Carrying on with Projections on Google Sheets
+title: Week 9 - Carrying on with Projections on Google Sheets
 layout: post
 author: aakash.patel
 permalink: /week-8---carrying-on-with-projections-on-google-sheets/
