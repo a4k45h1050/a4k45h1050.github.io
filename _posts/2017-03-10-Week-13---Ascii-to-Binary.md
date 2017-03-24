@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>Ascii to Binary</td>
     <td> Date:  </td>
-    <td>10/3/17</td>
+    <td>10/03/17</td>
   </tr>
 </table>
 
