@@ -18,7 +18,7 @@ published: true
 
 ![image alt text]({{ site.url }}/public/O27LhJ52uoS9L7jLRY71A_img_0.png)
 
-This week I tried to make a username and password login system on Github. I managed to get the general concept but it wasn't working properly. I got the information from several websites and managed to start it off. I also managed to embed a [https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png](https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png) video.
+This week I tried to make a username and password login system on Github. I managed to get the general concept but it wasn't working properly. I got the information from several websites and managed to start it off. I also managed to embed a YouTube video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkRSrGUIzTs" frameborder="0" allowfullscreen></iframe>
 
