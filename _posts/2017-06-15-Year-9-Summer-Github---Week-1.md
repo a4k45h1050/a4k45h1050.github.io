@@ -22,3 +22,7 @@ This week I tried to make a username and password login system on Github. I mana
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TkRSrGUIzTs" frameborder="0" allowfullscreen></iframe>
 
+I also managed to embed a GIF. Here it is
+
+Go check out ItzKritical on Youtube. He is an epic Minecraft Youtuber. This is his link : https://www.youtube.com/channel/UCdXB2yar1fip2Z9UZg8q9aA
+
