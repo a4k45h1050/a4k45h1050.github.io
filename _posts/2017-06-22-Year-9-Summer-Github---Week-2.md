@@ -20,3 +20,5 @@ published: true
 
 This week we did a starter where we had to make an inputter on repl.it where it would take our first name and second name and tell you whether the length of your name was average or more. It also sent a message out. This took most of the lesson but I had time to personalise my GitHub.
 
+The link for my GitHub : https://repl.it/Ixc9/3
+
