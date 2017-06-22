@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 1 - Repl.IT and Github</td>
+    <td>Week 2 - Repl.IT and Github</td>
     <td>Date</td>
     <td>22/06/2017</td>
   </tr>
