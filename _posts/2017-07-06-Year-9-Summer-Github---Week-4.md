@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 4 - Improving Quiz and Number Guesser of Repl.it</td>
+    <td>Week 4 - Improving Quiz and Number Guesser on Repl.it</td>
     <td>Date</td>
     <td>06/07/2017</td>
   </tr>
