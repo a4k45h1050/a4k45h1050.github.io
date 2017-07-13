@@ -1,5 +1,5 @@
 ---
-title: Year 9 Summer Github - Week 4
+title: Year 9 Summer Github - Week 5
 layout: post
 author: aakash.patel
 permalink: /year-9-summer-github---week-4/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 4 - Improving Quiz and Number Guesser on Repl.it</td>
+    <td>Week 5 - Improving Quiz and Number Guesser on Repl.it</td>
     <td>Date</td>
     <td>06/07/2017</td>
   </tr>
