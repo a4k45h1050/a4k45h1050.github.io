@@ -22,3 +22,17 @@ This week was our last ever IT lesson. I worked on my blog to make it look bette
 
 I also think that I have learned a lot this term because we had a free reign. We were allowed to create quizzes, explore Buzzfeed and customise our blogs by ourselves. This really improved our confidence. Altogether I think IT is a very good learning experience.
 
+Links:
+
+Number Guesser: [https://repl.it/JHWy/latest](https://repl.it/JHWy/latest)
+
+Login: [https://repl.it/JHWs/latest](https://repl.it/JHWs/latest)
+
+Name Information: [https://repl.it/Ixc9/latest](https://repl.it/Ixc9/latest)
+
+Username and Password Verifier: [https://repl.it/Ic5m/latest](https://repl.it/Ic5m/latest)
+
+Variable Data Quiz: [https://repl.it/HiB3/latest](https://repl.it/HiB3/latest)
+
+First Quiz: [https://repl.it/H5vt/latest](https://repl.it/H5vt/latest)
+
