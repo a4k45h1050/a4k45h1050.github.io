@@ -1,5 +1,5 @@
 ---
-title: Year 9 Summer Github - Week 1
+title: Year 9 Summer Github - Week 2
 layout: post
 author: aakash.patel
 permalink: /year-9-summer-github---week-1/
