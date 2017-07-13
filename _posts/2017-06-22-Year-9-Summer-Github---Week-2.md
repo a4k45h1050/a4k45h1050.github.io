@@ -1,5 +1,5 @@
 ---
-title: Year 9 Summer Github - Week 2
+title: Year 9 Summer Github - Week 3
 layout: post
 author: aakash.patel
 permalink: /year-9-summer-github---week-2/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 2 - Repl.IT and Github</td>
+    <td>Week 3 - Repl.IT and Github</td>
     <td>Date</td>
     <td>22/06/2017</td>
   </tr>
